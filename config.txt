@@ -1,3 +1,7 @@
 name = tosho
 height = 1.20
 email = toshotosho@gmail.com
+
+name = simon
+height = 1.90
+email = simonradev@gmail.com
